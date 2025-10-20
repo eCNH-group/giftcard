@@ -1,5 +1,5 @@
 # giftcard
-giftcard
+gift card
 
 <img width="1297" height="944" alt="eCNH gift card image" src="https://github.com/user-attachments/assets/d51d8fa1-ee0c-4aeb-b95e-b29877c4739c" />
 
